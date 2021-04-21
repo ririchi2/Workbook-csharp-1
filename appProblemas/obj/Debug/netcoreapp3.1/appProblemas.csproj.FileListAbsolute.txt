@@ -1,0 +1,13 @@
+C:\Users\richi\source\repos\appProblemas\appProblemas\bin\Debug\netcoreapp3.1\appProblemas.exe
+C:\Users\richi\source\repos\appProblemas\appProblemas\bin\Debug\netcoreapp3.1\appProblemas.deps.json
+C:\Users\richi\source\repos\appProblemas\appProblemas\bin\Debug\netcoreapp3.1\appProblemas.runtimeconfig.json
+C:\Users\richi\source\repos\appProblemas\appProblemas\bin\Debug\netcoreapp3.1\appProblemas.runtimeconfig.dev.json
+C:\Users\richi\source\repos\appProblemas\appProblemas\bin\Debug\netcoreapp3.1\appProblemas.dll
+C:\Users\richi\source\repos\appProblemas\appProblemas\bin\Debug\netcoreapp3.1\appProblemas.pdb
+C:\Users\richi\source\repos\appProblemas\appProblemas\obj\Debug\netcoreapp3.1\appProblemas.csprojAssemblyReference.cache
+C:\Users\richi\source\repos\appProblemas\appProblemas\obj\Debug\netcoreapp3.1\appProblemas.AssemblyInfoInputs.cache
+C:\Users\richi\source\repos\appProblemas\appProblemas\obj\Debug\netcoreapp3.1\appProblemas.AssemblyInfo.cs
+C:\Users\richi\source\repos\appProblemas\appProblemas\obj\Debug\netcoreapp3.1\appProblemas.csproj.CoreCompileInputs.cache
+C:\Users\richi\source\repos\appProblemas\appProblemas\obj\Debug\netcoreapp3.1\appProblemas.dll
+C:\Users\richi\source\repos\appProblemas\appProblemas\obj\Debug\netcoreapp3.1\appProblemas.pdb
+C:\Users\richi\source\repos\appProblemas\appProblemas\obj\Debug\netcoreapp3.1\appProblemas.genruntimeconfig.cache
